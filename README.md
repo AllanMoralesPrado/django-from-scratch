@@ -8,3 +8,5 @@ estado inicial del proyecto
 - VSCode
 - Microsoft Edge
 - Python 3.12.5
+
+## Estoy en develop
